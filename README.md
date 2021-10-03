@@ -10,5 +10,13 @@
 # Covid-19 infection Checker using x-ray image processing
 
 <img src="https://user-images.githubusercontent.com/51490424/135769531-afa7481e-1f98-4739-a006-93bcb7b06a1d.jpg" width="300" height="400">
+
+# Educational purpose and FAQs
+
 <img src="https://user-images.githubusercontent.com/51490424/135769626-f7d8d2cc-58aa-4197-8006-47038f49feba.PNG" width="300" height="400">
+
+# Covid-19 consultant
+
 <img src="https://user-images.githubusercontent.com/51490424/135769748-b1fa3328-f76f-428c-a5b9-21440f345d87.jpg" width="300" height="400">
+
+And it includes many more featurs like measuring temprature, distance using sensors and give full information about vaccinations
