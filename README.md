@@ -17,9 +17,12 @@
 <img src="https://user-images.githubusercontent.com/51490424/135846778-db1c78d2-8308-4eb8-a7af-94b9a7f23303.jpg" width="300" height="400">
 <img src="https://user-images.githubusercontent.com/51490424/135848188-a3343993-e04d-48a4-b78c-caec4b205c55.jpg" width="300" height="400">
 <img src="https://user-images.githubusercontent.com/51490424/135866307-bb867d1b-3e5c-437a-abf0-86c60d1ff28c.jpg" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/51490424/135898437-414a5808-cf1e-4020-a10a-0999a946eaf0.jpg" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/51490424/135898852-6ae005e7-83ce-4b63-8c4a-1538b9f41cf9.jpg" width="300" height="400">
+
 
 # Covid-19 consultant
 
 <img src="https://user-images.githubusercontent.com/51490424/135769748-b1fa3328-f76f-428c-a5b9-21440f345d87.jpg" width="300" height="400">
-
+<img src="https://user-images.githubusercontent.com/51490424/135898207-5d05ff8b-64da-47d6-8cc3-be394814b9de.jpg" width="300" height="400">
 And it includes many more featurs like measuring temprature, distance using sensors and give full information about vaccinations
