@@ -1,6 +1,8 @@
 # Covid-19-chaser-nasa-space-app-challenge
 
 <img src="https://user-images.githubusercontent.com/51490424/135765293-ececa85e-9903-4d89-82ed-cfae7ad91bb8.jpg" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/51490424/135898207-5d05ff8b-64da-47d6-8cc3-be394814b9de.jpg" width="300" height="400">
+
 
 # Live Data Tracker
 
@@ -24,5 +26,4 @@
 # Covid-19 consultant
 
 <img src="https://user-images.githubusercontent.com/51490424/135769748-b1fa3328-f76f-428c-a5b9-21440f345d87.jpg" width="300" height="400">
-<img src="https://user-images.githubusercontent.com/51490424/135898207-5d05ff8b-64da-47d6-8cc3-be394814b9de.jpg" width="300" height="400">
 And it includes many more featurs like measuring temprature, distance using sensors and give full information about vaccinations
